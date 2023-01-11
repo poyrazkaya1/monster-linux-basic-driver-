@@ -1,4 +1,4 @@
-
+# touchpad kapatıp açma
 import os 
 
 veri =input("touchpad açılsın mı kapatılsın mı ?")
